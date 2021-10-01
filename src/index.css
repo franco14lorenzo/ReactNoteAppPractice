@@ -1,0 +1,17 @@
+body {
+  margin: 25px;
+  font-family: "Heebo", sans-serif;
+  color: #42526e;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+h1 {
+  text-align: center;
+}
+ul {
+  padding: 10px;
+}
+li {
+  list-style: none;
+  padding: 5px;
+}
